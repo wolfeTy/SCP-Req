@@ -8,4 +8,4 @@ SCPReq.req -- allows the player to use the command.
 SCPReq_enable -- Currently the only config option, obviously to enable or disable this plugin, default is true.
 
 # Commands:
-scpreq, req in either the remote admin console, or the local console - if using the local console you'll need to add a period before sending the command (ex: .scpreq | .req)
+scpreq | req -- in either the remote admin console, or the local console - if using the local console you'll need to add a period before sending the command (ex: .scpreq | .req)
